@@ -1,1 +1,1 @@
-"# DjangoTutorial" 
+# DjangoTutorial
